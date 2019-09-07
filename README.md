@@ -4,5 +4,5 @@ Library for your Spring Boot Project
 
 ## TODO
 
-[] Adding proper explanation on the library
-[] Adding example
+- [] Adding proper explanation on the library
+- [] Adding example
